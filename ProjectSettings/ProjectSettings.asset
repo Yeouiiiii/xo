@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ec421684aafd26342a5a2c98d026f427
+  productGUID: efaf47673de16154386596a30b849115
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: game XO
+  productName: Yeoui
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -629,14 +629,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: game XO
+  metroPackageName: Yeoui
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: game XO
+  metroApplicationDescription: Yeoui
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -705,10 +705,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 225d476f-8154-4e3f-818a-4e4498315c1d
+  cloudProjectId: 4cc321ff-7d81-49d3-8ba2-a585fe721936
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: game XO
+  projectName: Yeoui
   organizationId: hungthai7b
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
